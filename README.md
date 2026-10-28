@@ -89,6 +89,6 @@ Dirijo agentes de IA para avanzar rápido, pero **el criterio es mío**:
 
 ## Contacto
 
-<!-- 👇 Rellena tu contacto y borra este comentario: -->
-📫 **Email:** `TU_EMAIL_AQUÍ`
-💼 **LinkedIn:** `TU_LINKEDIN_AQUÍ`
+📫 **Email:** [adopico83@gmail.com](mailto:adopico83@gmail.com)
+🌐 **Portfolio:** [portfolio-dopico.vercel.app](https://portfolio-dopico.vercel.app/es)
+<!-- 💼 LinkedIn (opcional): añade aquí tu enlace si quieres -->
