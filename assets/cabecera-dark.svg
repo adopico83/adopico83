@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Andrés (Ander) — desarrollador full-stack junior">
+  <rect width="1200" height="260" rx="16" fill="#0D1117"/>
+  <rect x="64" y="64" width="6" height="132" rx="3" fill="#E0A58F"/>
+  <text x="96" y="118" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="56" font-weight="700" fill="#F0F6FC">Andrés (Ander)</text>
+  <text x="96" y="162" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="26" fill="#9198A1">Desarrollador full-stack junior · Aplicaciones web con IA</text>
+  <text x="96" y="200" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="20" fill="#E0A58F">Gipuzkoa · DAW · Seguridad web y de IA</text>
+</svg>
